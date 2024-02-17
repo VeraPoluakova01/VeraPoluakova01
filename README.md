@@ -1,5 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+ <div id="badges">
+  <a href="https://t.me/VeraPolyakova20">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>  
+ </div>
+ <img src="https://komarev.com/ghpvc/?username=VeraPoluakova01&style=flat-square&color=blue" alt=""/> 
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
 <!--
 **VeraPoluakova01/VeraPoluakova01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
